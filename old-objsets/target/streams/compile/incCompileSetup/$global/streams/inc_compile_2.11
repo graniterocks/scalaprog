@@ -1,0 +1,408 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes
+compile options:
+2 items
+0 -> -deprecation
+1 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetData$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetData.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$toTweetSet$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$unparseToData$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$$anonfun$getTweetData$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$$anonfun$getTweets$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Cons.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Empty.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$appleTweets$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$googleTweets$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$$anonfun$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$delayedInit$body.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Nil$.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Nil.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\NonEmpty.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Tweet.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetList$class.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetList.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetSet$$anonfun$union$1.class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetSet.class
+binary dependencies:
+8 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.11.5.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\bundles\org.scala-lang.modules\scala-parser-combinators_2.11\scala-parser-combinators_2.11-1.0.2.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.11.5.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> common.package
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> common.package$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> objsets.TweetData
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> objsets.TweetData$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$$anonfun$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$$anonfun$toTweetSet$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$$anonfun$unparseToData$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$ParseTweets$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweetData$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweets$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Cons
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Empty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Main
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Main$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Main$$anonfun$1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Main$delayedInit$body
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Nil
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Nil$
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.NonEmpty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.Tweet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.TweetList
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.TweetList$class
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.TweetSet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets.TweetSet$$anonfun$union$1
+used names:
+206 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> ::
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> <init>
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> <repeated>
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> Any
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> AnyRef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> File
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> InputStream
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> List
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> None
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> Nothing
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> Option
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> Predef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> String
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> _root_
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> child
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> children
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> classesDir
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> common
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> exists
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> file
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> foldLeft
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> getClass
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> getParentFile
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> getResource
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> io
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> java
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> package
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> projectDir
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> resourceFile
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> resourcePath
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> subFile
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> toURI
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> <init>
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> AnyRef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> CNET
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> TechCrunch
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> TweetData
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> amazondeals
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> engadget
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> gadgetlab
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> gizmodo
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> mashable
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> objsets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> +
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> ++
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> ->
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> <init>
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Any
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> AnyRef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> CNET
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Empty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> JSON
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> List
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Map
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> ParseTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Predef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Seq
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> String
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> StringBuffer
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> T
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> TechCrunch
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> Tweet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> TweetData
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> TweetReader
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> TweetSet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> acc
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> allTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> amazondeals
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> amazondealsTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> append
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> apply
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> asInstanceOf
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> augmentString
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> buf
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> canBuildFrom
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> cnetTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> collection
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> curSets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> engadget
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> engadgetTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> foldLeft
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> foreach
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> gadgetlab
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> gadgetlabTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> get
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> getList
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> getTweetData
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> gizmodo
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> gizmodoTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> head
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> immutable
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> incl
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> isEmpty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> java
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> json
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> l
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> lang
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> map
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> mashable
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> mashableTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> objsets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> package
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> parseFull
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> parsing
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> replaceAll
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> retweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> s
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> siteTweetSetMap
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> sites
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> sources
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tail
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> techCrunchTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> text
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> toDouble
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> toInt
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> toString
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> toTweetSet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tw
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tweetMap
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tweetSets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> tws
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> union
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> unionOfAllTweetSets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> user
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> util
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> zip
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> &&
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> +
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> <
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> <init>
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> >=
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> AnyRef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> App
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Boolean
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Cons
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Empty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Function1
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> GoogleVsApple
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Int
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> List
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Main
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Nil
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> NoSuchElementException
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> NonEmpty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Predef
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> String
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Tweet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> TweetList
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> TweetReader
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> TweetSet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> Unit
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> _root_
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> acc
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> allTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> apple
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> appleTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> apply
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> augmentString
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> common
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> contains
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> descendingByRetweet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> descendingByRetweetAcc
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> elem
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> exists
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> f
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> filter
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> filterAcc
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> foreach
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> google
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> googleTweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> head
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> immutable
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> incl
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> isEmpty
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> isLeaf
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> java
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> left
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> lt
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> max
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> mostRetweeted
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> objsets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> p
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> println
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> remove
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> retweets
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> right
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> rt
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> scala
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> t
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> tail
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> text
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> that
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> trending
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> tw
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> tweet
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> unary_!
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> union
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> user
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> util
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> w
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> x
+product stamps:
+33 items
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1434632688366)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package$.class -> lastModified(1434632688356)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\common\package.class -> lastModified(1434632688349)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Cons.class -> lastModified(1434632688372)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Empty.class -> lastModified(1434632688377)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class -> lastModified(1434632688398)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$appleTweets$1.class -> lastModified(1434632688394)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class -> lastModified(1434632688406)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$googleTweets$1.class -> lastModified(1434632688402)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$.class -> lastModified(1434632688390)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\GoogleVsApple.class -> lastModified(1434632688380)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$$anonfun$1.class -> lastModified(1434632688420)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$.class -> lastModified(1434632688417)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main$delayedInit$body.class -> lastModified(1434632688423)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Main.class -> lastModified(1434632688410)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Nil$.class -> lastModified(1434632688430)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Nil.class -> lastModified(1434632688426)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\NonEmpty.class -> lastModified(1434632688444)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\Tweet.class -> lastModified(1434632688448)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetData$.class -> lastModified(1434632688458)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetData.class -> lastModified(1434632688452)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetList$class.class -> lastModified(1434632688463)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetList.class -> lastModified(1434632688461)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$1.class -> lastModified(1434632688491)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$toTweetSet$1.class -> lastModified(1434632688495)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$$anonfun$unparseToData$1.class -> lastModified(1434632688499)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$.class -> lastModified(1434632688487)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$$anonfun$getTweetData$1.class -> lastModified(1434632688509)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$$anonfun$getTweets$1.class -> lastModified(1434632688513)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader$ParseTweets$.class -> lastModified(1434632688504)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetReader.class -> lastModified(1434632688468)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetSet$$anonfun$union$1.class -> lastModified(1434632688519)
+C:\Users\sd\Google Drive\scalaws\objsets\target\scala-2.11\classes\objsets\TweetSet.class -> lastModified(1434632688517)
+source stamps:
+4 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> hash(308154d347861aee4ed694df18c896c9a53d86a6)
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> hash(9bf9247ca2ed3966a673cef172ec6c484aa0660b)
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> hash(ebe1d667cdd4d460f70d6f24de6b24d8a230b2a1)
+binary stamps:
+3 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1407137807949)
+C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\bundles\org.scala-lang.modules\scala-parser-combinators_2.11\scala-parser-combinators_2.11-1.0.2.jar -> lastModified(1434088706773)
+C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.11.5.jar -> lastModified(1434088716734)
+class names:
+3 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\bundles\org.scala-lang.modules\scala-parser-combinators_2.11\scala-parser-combinators_2.11-1.0.2.jar -> scala.util.parsing.json.JSON$
+C:\Users\sd\Google Drive\scalaws\objsets\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.11.5.jar -> scala.App
+internal apis:
+4 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4GxYiTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJWdLegGkkBhGP/tSB2kRTSp2oJK
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC1Qr77AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFfWSdB0AAZub3RpZnlzcQB+AAxDiLdYdAALYW1hem9uZGVhbHNzcQB+AAzB9PrkdAAEQ05FVHNxAH4ADLiSGK90AAdnaXptb2Rvc3EAfgAMzn6MUnQABHdhaXRzcQB+AAzseQ0+dAANJGFzSW5zdGFuY2VPZnNxAH4ADCy4dJx0AAhtYXNoYWJsZXNxAH4ADMOOFm10AAlnYWRnZXRsYWJzcQB+AAylZ+ZKdAAGZXF1YWxzc3EAfgAMqzntPHQADGFzSW5zdGFuY2VPZnNxAH4ADNqr67R0AAxzeW5jaHJvbml6ZWRzcQB+AAykTZNkdAAIZW5nYWRnZXRzcQB+AAwJADQtdAAJVHdlZXREYXRhc3EAfgAMkoKre3QADSRpc0luc3RhbmNlT2ZzcQB+AAxcoKwSdAAJbm90aWZ5QWxsc3EAfgAMMH7aiHQADGlzSW5zdGFuY2VPZnNxAH4ADJr9+gJ0AAI9PXNxAH4ADObl6Vp0AAVjbG9uZXNxAH4ADBhTlBB0AAh0b1N0cmluZ3NxAH4ADG03mBV0AAIhPXNxAH4ADH+KJ2B0AAhnZXRDbGFzc3NxAH4ADJ0Sd7l0AAJuZXNxAH4ADBeOk5l0AApUZWNoQ3J1bmNoc3EAfgAMruG0jXQAAmVxc3EAfgAMKpb2rnQAAiMjc3EAfgAMNYI0onQACGZpbmFsaXplc3EAfgAMfKC1I3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEW9ianNldHMuVHdlZXREYXRhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBlAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGxzcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AItwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4GxYiTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDCBVNNHhhruTtaU3xjIlsmlPYam
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDKEHlhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLAN1Q10AAZub3RpZnlzcQB+AAyh2lTydAAOZW5nYWRnZXRUd2VldHNzcQB+AAzjNNa8dAAEd2FpdHNxAH4ADHGaEGR0AA5tYXNoYWJsZVR3ZWV0c3NxAH4ADImefJV0AAtUd2VldFJlYWRlcnNxAH4ADEVODmp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMRxJaiHQAC1BhcnNlVHdlZXRzc3EAfgAMSmWTZXQABmVxdWFsc3NxAH4ADJeVB810AA9zaXRlVHdlZXRTZXRNYXBzcQB+AAyNWvY8dAAMYXNJbnN0YW5jZU9mc3EAfgAMQlXjRHQADHN5bmNocm9uaXplZHNxAH4ADEaH4PR0AAlnZXRUd2VldHNzcQB+AAwBA3MxdAAIdHdlZXRNYXBzcQB+AAx5+L46dAANJGlzSW5zdGFuY2VPZnNxAH4ADIpz2FZ0AAZnZXRNYXBzcQB+AAyYrgZKdAAJbm90aWZ5QWxsc3EAfgAMzFbU4nQADGlzSW5zdGFuY2VPZnNxAH4ADG4QsW90AApjbmV0VHdlZXRzc3EAfgAMQFdUgXQAEWFtYXpvbmRlYWxzVHdlZXRzc3EAfgAMoMTwynQACWFsbFR3ZWV0c3NxAH4ADGCYff10AA1naXptb2RvVHdlZXRzc3EAfgAMpqRmTnQAE3VuaW9uT2ZBbGxUd2VldFNldHNzcQB+AAxB4X4GdAAMZ2V0VHdlZXREYXRhc3EAfgAMAtj9fnQAEHRlY2hDcnVuY2hUd2VldHNzcQB+AAzHSBH4dAAKdG9Ud2VldFNldHNxAH4ADHRWEdt0AAI9PXNxAH4ADIwYmQ50AAVjbG9uZXNxAH4ADJagiBN0AA9nYWRnZXRsYWJUd2VldHNzcQB+AAwO6asOdAAHZ2V0TGlzdHNxAH4ADNgbJYx0AAh0b1N0cmluZ3NxAH4ADG7Cz550AAIhPXNxAH4ADLxvlIN0AAhnZXRDbGFzc3NxAH4ADHdFviR0AAVzaXRlc3NxAH4ADOd8YE50AA11bnBhcnNlVG9EYXRhc3EAfgAMOd2ktnQAAm5lc3EAfgAMth2denQACXR3ZWV0U2V0c3NxAH4ADMCSZCB0AAdzb3VyY2Vzc3EAfgAMx43nuXQAAmVxc3EAfgAM6Z7953QAAiMjc3EAfgAMMPxcDHQACGZpbmFsaXplc3EAfgAMjTtKz3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE29ianNldHMuVHdlZXRSZWFkZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AiHNxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cQB+AGQAAAAAcHNxAH4AgQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AId0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKFzcQB+AJR0AANBbnlzcQB+AJhzcQB+AJt1cQB+AJ4AAAACc3EAfgCgdAAFc2NhbGFxAH4Ap3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHb2Jqc2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTgbFiJN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCQzpcVXNlcnNcc2RcR29vZ2xlIERyaXZlXHNjYWxhd3Ncb2Jqc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUm/kkfKLtOWamc87xcuxsSEqgZgs=
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAz67XyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLx/qil0AAZub3RpZnlzcQB+AAzA6BoYdAATZGVzY2VuZGluZ0J5UmV0d2VldHNxAH4ADJtqU8J0AA1Hb29nbGVWc0FwcGxlc3EAfgAMAhW3TnQAA05pbHNxAH4ADP7foLx0AAR3YWl0c3EAfgAM3TYaR3QADSRhc0luc3RhbmNlT2ZzcQB+AAzorpb0dAAFdW5pb25zcQB+AAxwO/eIdAAGZXF1YWxzc3EAfgAMSDEsOHQACWZpbHRlckFjY3NxAH4ADNW7ZR90AAZpc0xlYWZzcQB+AAz/tb7ldAAEaGVhZHNxAH4ADFJm8RZ0AAxhc0luc3RhbmNlT2ZzcQB+AAyV4V4KdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyUYY9JdAAEaW5jbHNxAH4ADPeSSHt0AAxzeW5jaHJvbml6ZWRzcQB+AAxPQU0YdAANJGlzSW5zdGFuY2VPZnNxAH4ADMb/uHJ0AAlUd2VldExpc3RzcQB+AAyhPV36dAAGZ29vZ2xlc3EAfgAMWOXz6nQABHRleHRzcQB+AAxMh4wBdAANbW9zdFJldHdlZXRlZHNxAH4ADAkogkJ0AAR0YWlsc3EAfgAMOaFWfXQABG1haW5zcQB+AAzf7DG5dAAIcmV0d2VldHNzcQB+AAw5klqcdAAEQ29uc3NxAH4ADOhCNft0AAlub3RpZnlBbGxzcQB+AAwy5HlzdAAMaXNJbnN0YW5jZU9mc3EAfgAMCjy3QnQABmZpbHRlcnNxAH4ADJAdCZ50AAY8aW5pdD5zcQB+AAwXGNTMdAADbWF4c3EAfgAMbfrtKXQABnJlbW92ZXNxAH4ADKy3EKl0AAVFbXB0eXNxAH4ADE6iRUZ0AAI9PXNxAH4ADAht0r90AAVjbG9uZXNxAH4ADE34DOx0AAdmb3JlYWNoc3EAfgAMrjUvwXQABVR3ZWV0c3EAfgAMkLXqWnQABiRpbml0JHNxAH4ADIYq6090AAhUd2VldFNldHNxAH4ADHQtait0AARNYWluc3EAfgAMad1y63QACHRvU3RyaW5nc3EAfgAMM7BeRHQABGFyZ3NzcQB+AAzgw+c9dAAFYXBwbGVzcQB+AAxsKQmldAACIT1zcQB+AAyMF3O+dAAIZ2V0Q2xhc3NzcQB+AAwJQGjfdAAMZ29vZ2xlVHdlZXRzc3EAfgAMtaLdsnQACGNvbnRhaW5zc3EAfgAMVu+kVXQAB2lzRW1wdHlzcQB+AAyX3e03dAACbmVzcQB+AAz78jnxdAAIdHJlbmRpbmdzcQB+AAxdsiBGdAAEdXNlcnNxAH4ADBUb/Kp0AAJlcXNxAH4ADIcrdcZ0ABZkZXNjZW5kaW5nQnlSZXR3ZWV0QWNjc3EAfgAMLRMMonQACE5vbkVtcHR5c3EAfgAMPe22n3QAC2RlbGF5ZWRJbml0c3EAfgAMl/Tvw3QAAiMjc3EAfgAMBYtgV3QAC2FwcGxlVHdlZXRzc3EAfgAMcrIZT3QACGZpbmFsaXplc3EAfgAM74YuY3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AiXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADW9ianNldHMuVHdlZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGk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ACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgG1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCcdAAFUGxhaW5xAH4AXXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AtVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ap3NxAH4AtHQABUFycmF5cQB+AcR1cQB+ALIAAAABc3EAfgC0dAAGU3RyaW5nc3EAfgC4c3EAfgC7dXEAfgC+AAAAA3NxAH4AwHEAfgDDc3EAfgDAcQB+AMVxAH4Ax3BzcQB+AKEBdXEAfgCyAAAABHNxAH4AtHQAA0FwcHEAfgHEc3EAfgC0dAALRGVsYXllZEluaXRxAH4BxHNxAH4AtHEAfgC3cQB+AeFzcQB+ALRxAH4AyXEAfgHEcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdvYmpzZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOBsWIk3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEJDOlxVc2Vyc1xzZFxHb29nbGUgRHJpdmVcc2NhbGF3c1xvYmpzZXRzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTr4dZnzdTUYPcNbyTeayTYojCyoQ==
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetData.scala -> 
+AAAAAAAAAAA=
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetReader.scala -> 
+AAAAAgAAAQAAAAkAMSAgICAgIEpTT04ucGFyc2VGdWxsKHMpLmdldC5hc0luc3RhbmNlT2ZbTGlzdFtUXV0BAAAAlwEAAAAGAQAGICAgICAgAQBRQzpcVXNlcnNcc2RcR29vZ2xlIERyaXZlXHNjYWxhd3Ncb2Jqc2V0c1xzcmNcbWFpblxzY2FsYVxvYmpzZXRzXFR3ZWV0UmVhZGVyLnNjYWxhAQBRQzpcVXNlcnNcc2RcR29vZ2xlIERyaXZlXHNjYWxhd3Ncb2Jqc2V0c1xzcmNcbWFpblxzY2FsYVxvYmpzZXRzXFR3ZWV0UmVhZGVyLnNjYWxhAEdvYmplY3QgSlNPTiBpbiBwYWNrYWdlIGpzb24gaXMgZGVwcmVjYXRlZDogVGhpcyBvYmplY3Qgd2lsbCBiZSByZW1vdmVkLgEAAAEAAAAMADogICAgICBKU09OLnBhcnNlRnVsbChzKS5nZXQuYXNJbnN0YW5jZU9mW01hcFtTdHJpbmcsIEFueV1dAQAAAPgBAAAABgEABiAgICAgIAEAUUM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcc3JjXG1haW5cc2NhbGFcb2Jqc2V0c1xUd2VldFJlYWRlci5zY2FsYQEAUUM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcc3JjXG1haW5cc2NhbGFcb2Jqc2V0c1xUd2VldFJlYWRlci5zY2FsYQBHb2JqZWN0IEpTT04gaW4gcGFja2FnZSBqc29uIGlzIGRlcHJlY2F0ZWQ6IFRoaXMgb2JqZWN0IHdpbGwgYmUgcmVtb3ZlZC4BAAAAAA==
+C:\Users\sd\Google Drive\scalaws\objsets\src\main\scala\objsets\TweetSet.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTeZZZyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTfcbset1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTgbCu0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTgbFiJN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXHNkXEdvb2dsZSBEcml2ZVxzY2FsYXdzXG9ianNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
