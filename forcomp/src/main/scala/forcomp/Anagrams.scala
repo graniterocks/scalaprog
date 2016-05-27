@@ -89,7 +89,7 @@ object Anagrams {
   def combinations(occurrences: Occurrences): List[Occurrences] = {
     def combinationsSameChar(o: (Char, Int)) : Occurrences = {
       (for {
-        i : Int <- 1 to o._2
+        i : Int <- 0 to o._2
       } yield (o._1, i)).toList
     }
     
@@ -98,7 +98,19 @@ object Anagrams {
         o: (Char, Int) <- os
       } yield combinationsSameChar(o)).toList  
     }
+   
+    def combine(os: List[Occurrences]): List[Occurrences] =  {
+      if (os == List())
+        List(List())
+      else { 
+        for {
+          x <- combine(os.tail)
+          y <- os.head
+        } yield y :: x 
+      }
+    }
     
+    combine(m1(occurrences)).map(x => x.filter(y => y._2 > 0))
   }
 
   /** Subtracts occurrence list `y` from occurrence list `x`.
