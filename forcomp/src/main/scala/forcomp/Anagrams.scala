@@ -86,7 +86,20 @@ object Anagrams {
    *  Note that the order of the occurrence list subsets does not matter -- the subsets
    *  in the example above could have been displayed in some other order.
    */
-  def combinations(occurrences: Occurrences): List[Occurrences] = ???
+  def combinations(occurrences: Occurrences): List[Occurrences] = {
+    def combinationsSameChar(o: (Char, Int)) : Occurrences = {
+      (for {
+        i : Int <- 1 to o._2
+      } yield (o._1, i)).toList
+    }
+    
+    def m1(os : Occurrences) : List[Occurrences] = {
+      (for {
+        o: (Char, Int) <- os
+      } yield combinationsSameChar(o)).toList  
+    }
+    
+  }
 
   /** Subtracts occurrence list `y` from occurrence list `x`.
    *
